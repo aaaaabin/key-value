@@ -1,8 +1,4 @@
-# 🍌🟢爪哇后端Level2考核
-
-[TOC]
-
-## key-value-database_ JAVA语言项目💯
+# key-value-database_ JAVA语言项目💯
 
 ### 🍬项目介绍
 
